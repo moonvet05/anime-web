@@ -1,0 +1,4 @@
+body { background: #f8fafc; }
+h1 { font-weight: 700; color: #2c3e50; }
+.card-title { margin-bottom: 0.5rem; }
+.card img { object-fit: cover; height: 260px; }
